@@ -1,0 +1,19 @@
+# Sensitive login data
+shopee_cookies.json
+shopee_profile/
+session_info.json
+
+# Screenshots (may contain personal account info)
+debug_fail_*.png
+fail_*.png
+
+# Python environment & cache
+__pycache__/
+.venv/
+.env
+
+# Local database
+*.db
+
+# Temporary/Test files
+test_api.py

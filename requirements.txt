@@ -1,0 +1,2 @@
+# Render deployment - dashboard only (ไม่ต้องการ playwright บน cloud)
+# tracker_cloud.py รันบน Windows เครื่องตัวเอง
